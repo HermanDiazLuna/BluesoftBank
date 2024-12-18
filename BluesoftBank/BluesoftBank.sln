@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluesoftBank.core", "BluesoftBank.core\BluesoftBank.core.csproj", "{99864402-F0F8-4A9E-8810-18E5DFDECDA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluesoftBank.infrastructure", "BluesoftBank.infrastructure\BluesoftBank.infrastructure.csproj", "{04A0835D-3C23-47C2-821E-A00791FF3FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluesoftBank.api", "BluesoftBank.api\BluesoftBank.api.csproj", "{A29BB8C5-1390-4CF1-A01A-C22B98BDD1EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99864402-F0F8-4A9E-8810-18E5DFDECDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99864402-F0F8-4A9E-8810-18E5DFDECDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99864402-F0F8-4A9E-8810-18E5DFDECDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99864402-F0F8-4A9E-8810-18E5DFDECDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A0835D-3C23-47C2-821E-A00791FF3FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A0835D-3C23-47C2-821E-A00791FF3FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A0835D-3C23-47C2-821E-A00791FF3FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A0835D-3C23-47C2-821E-A00791FF3FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29BB8C5-1390-4CF1-A01A-C22B98BDD1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29BB8C5-1390-4CF1-A01A-C22B98BDD1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29BB8C5-1390-4CF1-A01A-C22B98BDD1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29BB8C5-1390-4CF1-A01A-C22B98BDD1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BluesoftBank/.vs/BluesoftBank
+/BluesoftBank/BluesoftBank.api/bin/Debug/net8.0
+/BluesoftBank/BluesoftBank.api/obj
+/BluesoftBank/BluesoftBank.core/bin/Debug/net8.0
+/BluesoftBank/BluesoftBank.core/obj
+/BluesoftBank/BluesoftBank.infrastructure/bin/Debug/net8.0
+/BluesoftBank/BluesoftBank.infrastructure/obj
